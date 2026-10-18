@@ -1,7 +1,4 @@
-permalink: / title: "" excerpt: "" author_profile: true redirect_from:
 
-/about/
-/about.html
 I am a student at Fuzhou University, Fujian, China. My research interest includes cutting-edge AI-NLP technologies, and I am currently building the foundations — data structures, systems, and the engineering habits behind reliable software.
 
 📖 Educations
